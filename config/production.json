@@ -1,0 +1,6 @@
+{
+    "nombre" : "Api Rest Express - Produccion",
+    "configDB":{
+        "host": "pueba-db-server"
+    }
+}
